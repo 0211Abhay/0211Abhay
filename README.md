@@ -26,14 +26,14 @@ const abhay = {
 
 ## 🚀 Professional Summary
 
-I am a detail-oriented and proactive Full Stack Web Developer specializing in building secure, scalable, and modular web applications. My expertise spans:
+I am a detail-oriented Full Stack Web Developer specializing in building secure, scalable, and modular web applications. My expertise spans:
 
 - **Back-End**: PHP, MySQL, PostgreSQL, Express.js, Node.js
 - **Front-End**: ReactJS, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS
 - **Tools & Technologies**: Git, Docker, AWS, Firebase, GCP
 - **Skills**: User Authentication, Role-Based Access Control, Database Architecture
 
-My National Hackathon win reflects my problem-solving ability and teamwork under pressure. I actively participate in tech challenges, aiming to create impactful solutions for societal needs.
+My national and state-level Hackathon wins reflect my problem-solving ability and ability to work well under pressure. I actively participate in tech challenges, aiming to create impactful solutions for societal needs.
 
 ## 💻 Tech Stack
 
