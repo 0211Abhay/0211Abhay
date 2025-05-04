@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhay Nathwani</h1>
-<h3 align="center">I am a Human Version of tangled Earphone. A person with</h3>
+<h3 align="center">I am a detail-oriented and proactive Full Stack Web Developer pursuing a Bachelor's degree in Information and Communication Technology at Marwadi University, Rajkot. I specialize in building secure, scalable, and modular web applications, with strong expertise in PHP, MySQL, JavaScript, HTML, and CSS. I have hands-on experience in both front-end and back-end development, and I’m passionate about developing innovative solutions that address real-world problems.
+
+My back-end skills include robust development using PHP and relational databases such as MySQL and PostgreSQL. I am proficient in version control using Git and follow structured project documentation practices to ensure maintainability and collaboration. On the front end, I leverage ReactJS to create responsive, user-friendly interfaces, and I am experienced in implementing user authentication, role-based access control, and database-driven functionality.
+
+I am deeply enthusiastic about clean, maintainable code and continuously strive to enhance user experience and performance. My commitment to excellence has been recognized with a National Hackathon win, which reflects my problem-solving ability and teamwork under pressure. I actively participate in hackathons and tech challenges, aiming to create impactful solutions for societal needs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0211abhay&label=Profile%20views&color=0e75b6&style=flat" alt="0211abhay" /> </p>
 
