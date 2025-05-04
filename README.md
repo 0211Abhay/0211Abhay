@@ -31,7 +31,7 @@ I am a detail-oriented Full Stack Web Developer specializing in building secure,
 - **Back-End**: PHP, MySQL, PostgreSQL, Express.js, Node.js
 - **Front-End**: ReactJS, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS
 - **Tools & Technologies**: Git, Docker, AWS, Firebase, GCP
-- **Skills**: User Authentication, Role-Based Access Control, Database Architecture
+- **Skills**: Web Development, App development, System Design, etc
 
 My national and state-level Hackathon wins reflect my problem-solving ability and ability to work well under pressure. I actively participate in tech challenges, aiming to create impactful solutions for societal needs.
 
